@@ -1,6 +1,6 @@
 # [WIP] Input-enhencement-plan-v2
 
-An EC, splited, no-wireless keyboard.
+An EC, split, no-wireless keyboard.
 
 ## Features
 
